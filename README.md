@@ -1,8 +1,18 @@
 # NYJavascript.com
 Site for the [NY Javascript Meetup](www.meetup.com/NY-JavaScript/)
 
-### Dev Set Up
+### Set Up
 node: > v4.0.0
+```
+npm install
+npm install -g webpack
+```
+
+### Build App
+
+```
+npm run build
+```
 
 ### Tools Using:
 - Webpack
