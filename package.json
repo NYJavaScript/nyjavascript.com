@@ -1,0 +1,19 @@
+{
+  "name": "nyjavascript.com",
+  "version": "1.0.0",
+  "description": "Site for NY Javascript Meetup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYJavaScript/nyjavascript.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYJavaScript/nyjavascript.com/issues"
+  },
+  "homepage": "https://github.com/NYJavaScript/nyjavascript.com#readme"
+}
