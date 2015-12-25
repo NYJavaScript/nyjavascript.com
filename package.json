@@ -4,6 +4,7 @@
   "description": "Site for NY Javascript Meetup",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --progress --profile --colors",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,14 @@
   },
   "homepage": "https://github.com/NYJavaScript/nyjavascript.com#readme",
   "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
     "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
   }
 }
