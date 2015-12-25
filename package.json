@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NYJavaScript/nyjavascript.com/issues"
   },
-  "homepage": "https://github.com/NYJavaScript/nyjavascript.com#readme"
+  "homepage": "https://github.com/NYJavaScript/nyjavascript.com#readme",
+  "devDependencies": {
+    "webpack": "^1.12.9"
+  }
 }
