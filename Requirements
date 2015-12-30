@@ -1,0 +1,17 @@
+- Layout: Single page
+- Design: Minimalistic and Flat
+- Colour-Scheme:
+    - #FFD800, #587058, #587498, #E86850, #3D4C53
+    - Something along the lines of green,yellow,white and a bit of blue maybe.
+    - Will figure out how to make them work into the site
+- Features:
+    - Dynamic Javascript Menu Scroll down
+    - Responsive Layout
+    - hover over effects
+- Technologies used:
+    - Frameworks:
+        - REACT
+        - NODE.js
+        - ES6
+        - SASS/SCSS
+        - Web Packs
